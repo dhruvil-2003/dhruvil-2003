@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/dhruvil-shah-7b90b7224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvil-shah-7b90b7224" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhruvil2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhruvil2003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvils429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvils429" height="30" width="40" /></a>
-<a href="https://discord.gg/dhruvil26#2939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruvil26" height="30" width="40" /></a>
+<a href="https://discord.gg/Wu4Ta8MKsZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruvil26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
